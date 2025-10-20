@@ -1,1 +1,97 @@
+ 1  git status
+    2  git add README.md
+    3  git add .
+    4  git commit -m "Cao nhat README.md voi noi dung Lorem Ips
+    5  git status
+    6  git add .
+    7  git commit -m
+    8  git commit -m "Lorem"
+    9  git push origin main
+   10  git checkout main
+   11  git checkout main
+   12  https://github.com/luhtung25174600197-glitch/25174600197_Le_Uong_Hoang_Tung_bai_tap#
+   13  git check out -b branch_1
+   15  git add text_branch_1.txt
+   16  git commit -m "Them file text_branch_1.txt"
+   17  git push origin branch_1
+   18  cd https://github.com/luhtung25174600197-glitch/25174600197_Le_Uong_Hoang_Tung_bai_tap
+   19  git checkout -b branch_1
+   21  git add text_branch_1.txt
+   22  git commit -m "Them file text_branch_1.txt"
+   23  git push origin branch_1
+   24  git checkout main
+   25  git checkout -b branch_2
+   27  git add text_branch_2.txt
+   28  git commit -m "Them file text_branch_2.txt"
+   29  git push origin branch_2
+   30  git checkout main
+   31  git checkout -b branch_3
+   33  git add text_branch_3.txt
+   34  git commit -m "Them file text_branch_3.txt"
+   35  git push origin branch_3
+   36  git checkout main
+   37  git checkout -b branch_4
+   39  git add text_branch_4.txt
+   40  git commit -m "Them file text_branch_4.txt"
+   41  git push origin branch_4
+   42  git checkout main
+   43  git branch -d branch_4
+   44  git branch -D branch_4
+   45  git branch -D branch_4
+   46  git branch
+   47  git branch -r
+   48  git push origin --delete branch_4
+   49  git branch -list
+   50  git branch -delete branch
+   51  git branch --list
+   52  git pull origin main
+   53  git checkout main
+   59  git add main_folder
+   61  git add main_folder
+   62  git commit -m "Them thu muc main_folder va 3 file txt"
+   63  git push origin main
+   64  git checkout branch_1
+   65  git pull origin main
+   66  git push origin branch_1
+   67  git checkout branch_2
+   68  git pull origin main
+   69  git checkout main
+   70  git checkout branch_2
+   71  git pull origin main
+   72  git checkout main
+   73  git checkout main
+   80  git add main_folder
+   81  git commit -m "Them thu muc main_folder va 3 file txt"
+   82  git push origin main
+   83  git checkout branch_1
+   84  git pull origin main
+   85  git push origin branch_1
+   86  git checkout branch_2
+   87  git pull origin main
+   88  git checkout main
+   89  git checkout branch_3
+   90  git pull origin main
+   91  git checkout branch_1
+   92  git checkout -b branch_5
+  102  git add text_branch_1.txt
+  103  git commit -m "Cap nhat noi dung text_branch_1.txt trong branch_5"
+  104  git push origin branch_5
+  105  git checkout branch_1
+  106  git checkout -b branch_5
+  107  git add text_branch_1.txt
+  108  git commit -m "Cap nhat noi dung text_branch_1.txt trong branch_5"
+  109  git push origin branch_5
+  110  git checkout main
+  111  git branch -d branch_5
+  112  git branch -d branch_2
+  113  git branch -d branch_3
+  114  git branch -D branch_2
+  115  git branch -D branch_3
+  116  git push origin --delete branch_2
+  117  git push origin --delete branch_3
+  118  git checkout branch_1
+  119  git pull origin main
+  120  git push origin branch_1
+  121  git checkout main
+  122  git push origin branch_1
 
